@@ -1,3 +1,4 @@
+<hr>
 # SimpleTwitterApp
 
 # Project 2 - SimpleTwitterApp
